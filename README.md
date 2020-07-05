@@ -1,0 +1,1 @@
+# mnptest_javaprogram
